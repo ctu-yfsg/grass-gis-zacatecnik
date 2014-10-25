@@ -20,11 +20,7 @@ jazyce :wikipedia:`C++`, jiné jsou dostupné v podobě skriptů v jazyce
 :wikipedia:`Python`.
 
 
-.. important:: Školení je zaměřeno na verzi `GRASS 7.0
-             <http://grass.osgeo.org/download/software/#g70betax>`_. Nicméně
-             pokud není uvedeno jinak, tak všechny uvedené postupy
-             jsou funkční i ve verzi GRASS 6.4. Případné rozdíly mezi
-             těmito verzemi jsou vždy explicitně zdůrazněny.
+.. warning:: **TOTO JE POUZE UKÁZKA JEDNÉ KAPITOLY ŠKOLENÍ!**
 
 Intro
 -----
@@ -33,52 +29,13 @@ Intro
    :class: toc
 
    +--------------------------------+--------------------------------+
-   | První kroky                    | Základní pojmy                 |
-   +================================+================================+
-   | .. toctree::                   | .. toctree::                   |
-   |   :maxdepth: 2                 |   :maxdepth: 2                 |
-   |                                |                                |
-   |   instalace/index              |   intro/struktura-dat          |
-   |   intro/prvni-kroky            |   intro/region                 |
-   |   intro/import                 |                                |
-   +--------------------------------+--------------------------------+
-
-.. table::
-   :class: toc
-
-   +--------------------------------+--------------------------------+
-   | Dotazování                     | x                              |
+   | Dotazování                     |                                |
    +================================+================================+
    | .. toctree::                   | .. toctree::                   |
    |   :maxdepth: 2                 |   :maxdepth: 2                 |
    |                                |                                |
    |   intro/atributove-dotazy      |                                |
-   |   intro/prostorove-dotazy      |                                |
    +--------------------------------+--------------------------------+
-
-Rastrové analýzy
------------------
-
-Vektorové analýzy
-------------------
-
-Další témata
-------------
-
-.. table::
-   :class: noborder
-
-   +--------------------------------+--------------------------------+
-   | .. toctree::                   | .. toctree::                   |
-   |   :maxdepth: 1                 |   :maxdepth: 1                 |
-   |                                |                                |
-   |   misc/graficky-modeler        |                                |
-   +--------------------------------+--------------------------------+
-
-Související materiály
----------------------
-
-* `Školení GRASS GIS na Les-ejk.cz <http://les-ejk.cz/skoleni/grass/>`_
 
 Licence
 -------
