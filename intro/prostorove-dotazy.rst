@@ -1,2 +1,0 @@
-Prostorové dotazy
------------------
